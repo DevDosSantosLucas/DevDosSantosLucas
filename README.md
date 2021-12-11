@@ -14,6 +14,17 @@
 <a href="https://discord.com/Lucas-Ribeiro-dos-Santos#1050" target="blank">
   <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
+  
+<a href="https://lucasdev.vercel.app/" target="blank">
+  <img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+  
+ <!--
+<a href="LINK DOS CURSOS UDEMY AQUI" target="blank">
+  <img src= "https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+</a>
+-->
+
 </div>
   
 
