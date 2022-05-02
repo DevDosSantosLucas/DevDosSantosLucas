@@ -7,15 +7,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDosSantosLucas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style= "display : inline-block">
-<a href="https://www.linkedin.com/in/lucas-ribeiro-dos-santos-7aa04915a/" target="blank">
+<a href="https://www.linkedin.com/in/lucas-ribeiro-dos-santos-7aa04915a/" target="_blank">
   <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://discord.com/Lucas-Ribeiro-dos-Santos#1050" target="blank">
+<a href="https://discord.com/Lucas-Ribeiro-dos-Santos#1050" target="_blank">
   <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
   
-<a target="_self" href="https://lucasdev.vercel.app/" >
+<a href="https://lucasdev.vercel.app/" target ="_blank">
   <img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
   
