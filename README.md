@@ -15,7 +15,7 @@
   <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
   
-<a href="https://lucasdev.vercel.app/" target="_blank">
+<a target="_blank" href="https://lucasdev.vercel.app/" >
   <img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
   
