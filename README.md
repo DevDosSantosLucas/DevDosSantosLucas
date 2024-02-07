@@ -1,7 +1,8 @@
 ### Olá! Eu sou Lucas. 👋
 
-- 🔭 Estou trabalhando atualmente como Analista de Sistema PLSQL
-- 🌱 Estou aprendendo Frontend e Backend.
+- `🌱 Aprimorando minhas habilidades em Frontend e Backend.`
+- `🔭 Explorando novas oportunidades no mercado de trabalho.`
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDosSantosLucas&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDosSantosLucas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
