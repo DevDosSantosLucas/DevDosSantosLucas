@@ -4,6 +4,29 @@
   <img src=https://github.com/DevDosSantosLucas/DevDosSantosLucas/assets/37936745/ecb8a15f-602d-4ab0-b4e6-8993eb729eac width= 50px </img>
   Hey, There! 👋
 </h1>
+
+<div align = center>
+<a href="https://lucasdev.vercel.app/" target ="_blank">
+  <img src= "https://img.shields.io/badge/Meu_Site-000000?style=for-the-badge&logo=opera&logoColor=white" />
+</a>
+  
+<a href="https://www.linkedin.com/in/lucas-ribeiro-dos-santos-7aa04915a/" target="_blank">
+  <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://api.whatsapp.com/send/?phone=5516997237756&text&type=phone_number&app_absent=0" target="_blank">
+  <img src= "https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/dossantoslucasdev/" target ="_blank">
+  <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@dossantoslucasdev" target ="_blank">
+  <img src= "https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+</div>
+
+
   <table>
     <tr>
       <td>
@@ -32,18 +55,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDosSantosLucas&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDosSantosLucas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align = center>
-<a href="https://www.linkedin.com/in/lucas-ribeiro-dos-santos-7aa04915a/" target="_blank">
-  <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
-<a href="https://discord.com/Lucas-Ribeiro-dos-Santos#1050" target="_blank">
-  <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-  
-<a href="https://lucasdev.vercel.app/" target ="_blank">
-  <img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
-</div>
   
 
